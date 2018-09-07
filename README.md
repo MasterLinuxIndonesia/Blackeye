@@ -1,8 +1,8 @@
 ## BLACKEYE v1.1
 
-### Dikodekan oleh: @thelinuxchoice (https://github.com/thelinuxchoice/blackeye)
+### Dikodekan oleh: @MasterLinux (https://github.com/MasterLinuxIndonesia/Blackeye)
 
-### Diupgrade oleh: @suljot_gjoka (@ whiteeagle0)
+### Diupgrade oleh: @MasterLinuxIndonesia (@ Cy404)
 
 #### Credits (Hak Cipta)
 
@@ -31,7 +31,7 @@ Penggunaan BlackEye untuk menyerang target tanpa persetujuan timbal balik sebelu
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/blackeye
+git clone https://github.com/MasterLinuxIndonesia/Blackeye.git
 cd blackeye
 bash blackeye.sh
 ```
